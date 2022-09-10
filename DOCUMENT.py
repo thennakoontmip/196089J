@@ -12,3 +12,5 @@ sum = num1 + num2 +num3
 # Display the sum
 print(sum)
 print(activity.value)
+
+print ("Sum has been taken")
