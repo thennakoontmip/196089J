@@ -1,3 +1,4 @@
+print("hello world")
 # This program adds two numbers
 
 num1 = 1.5
